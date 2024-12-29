@@ -11,4 +11,4 @@ LeQuang
 - [From Kaggle](https://www.kaggle.com/competitions/spaceship-titanic/data?select=train.csv)
 
 ## Description
-This is my project about Machine Learning to practice pre-processing data and training models.
+This is my project about Machine Learning, focusing on practicing data pre-processing and training models. I achieved a final accuracy score of 75%.
